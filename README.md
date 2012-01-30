@@ -1,6 +1,6 @@
 #Description
 
-Summary Album art search is a rhythmbox 2 plugin which searches the web for the album art of the currently playing song using google search apis. From the resulting images, one can then choose an image to set it as album art. The plugin also has the option of searching covers based on only artist name, only album name, artist and album name (default option) and song tile & artist name.
+Albumartsearch is a rhythmbox 2 plugin which searches the web for the album art of the currently playing song using google search apis. From the resulting images, one can then choose an image to set it as album art. The plugin also has the option of searching covers based on only artist name, only album name, artist and album name (default option) and song tile & artist name.
 
 ## Code
 
